@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<client>
+  <local>
+    <host>127.0.0.1</host>
+    <port>1919</port>
+    <isKeepAlive>true</isKeepAlive>
+    <reconnectInterval>60</reconnectInterval>
+    <keepAliveInterval>15</keepAliveInterval>
+    <keepAliveTimeout>120</keepAliveTimeout>
+  </local>
+</client>

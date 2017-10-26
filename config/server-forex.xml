@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<server>
+  <local>
+    <port>1919</port>
+    <!--0,8-->
+    <protocolVersion>0</protocolVersion>
+    <!--0:None,2:zip-->
+    <compressType threshold="8192">2</compressType>
+  </local>
+  <vss>
+    <username>eastmoney02</username>
+    <password>em6XyZ70</password>
+    <is_alive>false</is_alive>
+    <timeout>120</timeout>
+    <check_interval>30</check_interval>
+    <max_reconnection_times>10</max_reconnection_times>
+  </vss>
+</server>

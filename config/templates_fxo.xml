@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+  <template id="3701" desc="fxo">
+    <field index="1" name="Date" codec="com.em.mdsserver.protocol.codec.SignedInteger" decimalPlaces="0"
+           adaptType="int"/>
+    <field index="2" name="Time" codec="com.em.mdsserver.protocol.codec.SignedInteger" decimalPlaces="0"
+           adaptType="int"/>
+    <field index="6" name="price" codec="com.em.mdsserver.protocol.codec.SignedInteger" decimalPlaces="5"
+           adaptType="float"/>
+    <field index="10" name="buyPrice1" desc="买一价" codec="com.em.mdsserver.protocol.codec.SignedInteger"
+           decimalPlaces="5" adaptType="float"/>
+    <field index="12" name="sellPrice1" desc="卖一价" codec="com.em.mdsserver.protocol.codec.SignedInteger"
+           decimalPlaces="5" adaptType="float"/>
+  </template>
+</templates>
