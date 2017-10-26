@@ -8,8 +8,8 @@
     <compressType threshold="8192">2</compressType>
   </local>
   <vss>
-    <username>eastmoney02</username>
-    <password>em6XyZ70</password>
+    <username>{YourAccount}</username>
+    <password>{YourPassword}</password>
     <is_alive>false</is_alive>
     <timeout>120</timeout>
     <check_interval>30</check_interval>
