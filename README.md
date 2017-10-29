@@ -1,4 +1,4 @@
-# OandaForex
+# OandaForex - Forex Supply System
 
 ## Overview
 Request real-time forex data from the vendor Oanda and transfer the data to the registered clients.
